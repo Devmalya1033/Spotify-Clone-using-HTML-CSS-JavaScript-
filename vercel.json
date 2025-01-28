@@ -1,6 +1,7 @@
 {
   "rewrites": [
-    { "source": "/songs/:path*", "destination": "/songs/:path*" },
-    { "source": "/img/:path*", "destination": "/img/:path*" }
+    { "source": "/img/:path*", "destination": "/img/:path*" },
+    { "source": "/songs/:path*", "destination": "/songs/:path*" }
   ]
 }
+
